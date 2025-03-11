@@ -1,3 +1,7 @@
 p{font-size: larger;font-style: oblique;}
-div{font-size: larger;;}
-div2{font-size: larger;}
+div{font-size: larger; text-align:left;
+     /*margin:10px;*/
+    padding-top: 50px;}
+img{width: 120px; height: 120px;}
+body {background-color:burlywood;}
+h1{text-align: center;}
